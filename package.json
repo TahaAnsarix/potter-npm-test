@@ -1,0 +1,19 @@
+{
+  "name": "git-first-project",
+  "version": "1.0.0",
+  "description": "small utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahaAnsarix/potter-npm-test.git"
+  },
+  "author": "Taha Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TahaAnsarix/potter-npm-test/issues"
+  },
+  "homepage": "https://github.com/TahaAnsarix/potter-npm-test#readme"
+}
